@@ -1,5 +1,5 @@
 
-LyricInsight é uma aplicação web para análise inteligente de letras musicais, utilizando modelos de IA (HuggingFace, OpenAI, DeepSeek) para identificar referências culturais, curiosidades e intenções do autor.
+Sintonia-IA é uma aplicação web para análise inteligente de letras musicais, utilizando modelos de IA (HuggingFace, OpenAI, DeepSeek) para identificar referências culturais, curiosidades e intenções do autor.
 
 ## Funcionalidades
 
